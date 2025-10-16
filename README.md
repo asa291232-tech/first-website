@@ -1,1 +1,24 @@
-# first-website
+<html>
+<head>
+	<h1>
+<b>Mother</b>
+</h1>
+</head>
+	<style>
+        body {
+            background-image: url('https://abrakadabra.fun/uploads/posts/2022-02/1643878949_1-abrakadabra-fun-p-serdechko-rukami-4.jpg');
+            background-size: cover; /* растягивает на весь экран */
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed; /* фиксированный фон */
+        }
+    </style>
+
+
+
+
+
+<h1>
+<i>i love you</i>
+</h1>
+</html>
